@@ -1,10 +1,27 @@
+# E-Commerce API
 
-- **User Authentication**: The system includes a secure **authentication** mechanism that allows customers to create personal accounts. Customers can **register**, **log in**, and **manage** their profiles.
+## 🚀 Features
+- JWT Authentication & Role-based Authorization
+- Stripe Payment Integration
+- Redis Caching for Performance Optimization
 
-- **Product Catalog**: It features a comprehensive **product catalog** where customers can browse items, view details, and check availability. The catalog is dynamically updated and managed through the API.
+## 🛠 Tech Stack
+- ASP.NET Core
+- Entity Framework Core
+- SQL Server
+- Redis
 
-- **Shopping Cart**: Customers have access to a **shopping cart** where they can add products, adjust quantities, and review their selections before checkout.
+## 📌 API Endpoints
+- Auth
+- Products
+- Orders
+- Payments
 
-- **Order Processing**: The API handles **order processing**, including payment authorization, order confirmation, and tracking. Customers can view their order history and status updates.
+## ▶️ How to Run
+1. Clone repo
+2. Update connection string
+3. Run migration
+4. Run project
 
-This system is designed to provide a seamless shopping experience for customers, with a focus on ease of use and security.
+## 📷 Screenshots
+(حط Swagger هنا)
